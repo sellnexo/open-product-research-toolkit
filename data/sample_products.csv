@@ -1,1 +1,4 @@
-Blank
+product_name,selling_price,cost_price,demand_score,competition_score,trend_score,return_risk,evidence_url,notes
+Reusable Sink Organizer,299,110,72,55,68,25,https://example.com/evidence-1,SYNTHETIC EXAMPLE - replace with verified evidence
+Compact Cable Storage Box,249,95,64,48,52,18,https://example.com/evidence-2,SYNTHETIC EXAMPLE - replace with verified evidence
+Foldable Laundry Basket,499,280,70,72,61,42,https://example.com/evidence-3,SYNTHETIC EXAMPLE - replace with verified evidence
